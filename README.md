@@ -4,7 +4,7 @@
 
 ## Introduction
 
-In this lesson, yuo'll answer some common open-ended interview questions about NoSQL databases.
+In this lesson, you'll answer some common open-ended interview questions about NoSQL databases.
 
 
 ## Question 1
